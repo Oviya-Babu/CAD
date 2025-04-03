@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Phishing Detector</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        textarea { width: 80%; height: 150px; padding: 10px; font-size: 16px; }
+        button { background-color: #007BFF; color: white; padding: 10px 20px; border: none; cursor: pointer; }
+        .result { margin-top: 20px; font-size: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Email Phishing Detector</h1>
+    <form method="post">
+        <textarea name="email_text" placeholder="Paste email content here..." required></textarea><br>
+        <button type="submit">Check Email</button>
+    </form>
+    {% if prediction %}
+        <p class="result">Result: <strong>{{ prediction }}</strong></p>
+    {% endif %}
+</body>
+</html>
