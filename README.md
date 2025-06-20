@@ -61,10 +61,10 @@ This project is licensed under the MIT License – feel free to use, modify, and
 
 This project was built during the CAD 3.O Hackathon at SRM Institute of Science and Technology by:
 
-- Oviya B -- B.Tech CSE - Cyber Security (NWC Dept)
-- Padmanathan C -- B.Tech CSE - Cyber Security (NWC Dept)
-- Nithesh Kumar A -- B.Tech CSE - AIML (CINTEL Dept)
-- Sagana M -- B.Tech CSE - AIML (CINTEL Dept)
+- Oviya B - B.Tech CSE - Cyber Security (NWC Dept)
+- Padmanathan C - B.Tech CSE - Cyber Security (NWC Dept)
+- Nithesh Kumar A - B.Tech CSE - AIML (CINTEL Dept)
+- Sagana M - B.Tech CSE - AIML (CINTEL Dept)
 
 Special thanks to our mentors and the hackathon organizers for their support.
 
@@ -72,7 +72,7 @@ Special thanks to our mentors and the hackathon organizers for their support.
 ## 📬 Connect with Me
 
 Feel free to check out the full codebase and try it yourself!
-GitHub Repo: phishing-email-detector
-LinkedIn Post: View My Hackathon Journey
+- GitHub Repo: phishing-email-detector
+- LinkedIn Post: View My Hackathon Journey
 
 
