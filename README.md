@@ -7,7 +7,7 @@
 
 ## 🚀 Project Overview
 
-Problem Statement: "AI is making phising so realistic." Its breaking down our Online security. How do we fight back ?
+**Problem Statement: "AI is making phising so realistic." Its breaking down our Online security. How do we fight back ?**
 
 With the rapid rise of AI-generated content, phishing emails are now more sophisticated than ever.  
 Our project, **Cyber Sentinel**, aims to tackle this pressing issue by leveraging Machine Learning to classify email content as **Phishing** or **Not Phishing**, all through a seamless Chrome Extension interface.
@@ -40,25 +40,25 @@ Our project, **Cyber Sentinel**, aims to tackle this pressing issue by leveragin
 
 ## Hackathon Highlights
  
- Event: CAD 3.0 Hackathon, SRM
- Team: POS SQUAD
- Achievement: Top 10 Finalist among 100+ teams
- Challenge: "AI is making phishing more realistic — how do we fight back?"
- Solution: Built an end-to-end ML-powered Chrome Extension to detect AI-generated phishing emails
+ - Event: CAD 3.0 Hackathon, SRM
+ - Team: POS SQUAD
+ - Achievement: Top 10 Finalist among 100+ teams
+ - Challenge: "AI is making phishing more realistic — how do we fight back?"
+ - Solution: Built an end-to-end ML-powered Chrome Extension to detect AI-generated phishing emails
 
 
 ## Future Enhancements
 
- Deploy backend API to the cloud (Render/Heroku)
- Gmail auto-scan integration
- Model improvement using LLMs & GPT integration
- Multi-language dataset support
+- Deploy backend API to the cloud (Render/Heroku)
+- Gmail auto-scan integration
+- Model improvement using LLMs & GPT integration
+-  Multi-language dataset support
 
 
- License
+## License
 This project is licensed under the MIT License – feel free to use, modify, and share with credit!
 
-📬 Connect with Me
+## 📬 Connect with Me
 
 Feel free to check out the full codebase and try it yourself!
 GitHub Repo: phishing-email-detector
