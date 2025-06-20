@@ -57,7 +57,7 @@ Our project, **Cyber Sentinel**, aims to tackle this pressing issue by leveragin
 ## License
 This project is licensed under the MIT License – feel free to use, modify, and share with credit!
 
-## 👥 Team Members
+##  Team Members
 
 This project was built during the CAD 3.O Hackathon at SRM Institute of Science and Technology by:
 
@@ -72,7 +72,7 @@ Special thanks to our mentors and the hackathon organizers for their support.
 ## 📬 Connect with Me
 
 Feel free to check out the full codebase and try it yourself!
-- GitHub Repo: phishing-email-detector
+- GitHub Repo: [phishing-email-detector](https://github.com/Oviya-Babu/Email-Phishing-Detector---CAD-3.0)
 - LinkedIn Post: View My Hackathon Journey
 
 
