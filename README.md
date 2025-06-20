@@ -43,9 +43,8 @@ Our project, **Cyber Sentinel**, aims to tackle this pressing issue by leveragin
  - Event: CAD 3.0 Hackathon, SRM
  - Team: POS SQUAD
  - Achievement: Top 10 Finalist among 100+ teams
- - Challenge: "AI is making phishing more realistic — how do we fight back?"
- - Solution: Built an end-to-end ML-powered Chrome Extension to detect AI-generated phishing emails
-
+ - Challenge: Detecting AI-generated phishing mails
+ - Solution: End-to-end ML-powered Chrome Extension
 
 ## Future Enhancements
 
@@ -57,6 +56,18 @@ Our project, **Cyber Sentinel**, aims to tackle this pressing issue by leveragin
 
 ## License
 This project is licensed under the MIT License – feel free to use, modify, and share with credit!
+
+## 👥 Team Members
+
+This project was built during the CAD 3.O Hackathon at SRM Institute of Science and Technology by:
+
+- Oviya B -- B.Tech CSE - Cyber Security (NWC Dept)
+- Padmanathan C -- B.Tech CSE - Cyber Security (NWC Dept)
+- Nithesh Kumar A -- B.Tech CSE - AIML (CINTEL Dept)
+- Sagana M -- B.Tech CSE - AIML (CINTEL Dept)
+
+Special thanks to our mentors and the hackathon organizers for their support.
+
 
 ## 📬 Connect with Me
 
