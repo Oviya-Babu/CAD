@@ -73,6 +73,6 @@ Special thanks to our mentors and the hackathon organizers for their support.
 
 Feel free to check out the full codebase and try it yourself!
 - GitHub Repo: [phishing-email-detector](https://github.com/Oviya-Babu/Email-Phishing-Detector---CAD-3.0)
-- LinkedIn Post: View My Hackathon Journey
+- LinkedIn Post: [View My Hackathon Journey](https://www.linkedin.com/posts/oviyab_finalist-hackathon-cybersecurity-activity-7341863917905707009-IXsM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFd3RbYBfNWDyzh2zhe3mxDx3QMB6KEjBKw)
 
 
